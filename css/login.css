@@ -1,0 +1,105 @@
+.body{
+  width:100%;
+  margin:auto;
+  background-image:url("../img/back4.png");
+  /*height: 90%;*/
+  background-repeat: no-repeat;
+  /*background-attachment: fixed;*/
+  background-size: 100%;
+}
+/*.row-login{
+  height: 40em;
+}*/
+/*.body{
+  background-color: red;
+  width: 80%;
+  margin-top: 3em;
+}*/
+.content-body{
+  text-align: center;
+  margin: auto;
+  /*margin-top: 10em;*/
+  width: 50%;
+  padding-bottom: 20em;
+}
+.form-control-login{
+  width: 80%;
+  margin: auto;
+}
+/*.btn{
+  width: 80%;
+}*/
+/*.navbar{
+  background-color: white;
+  height: 6em;
+  width: 100%;
+}
+.menu{
+  width: 90%;
+  margin: auto;
+}*/
+/*.navbar-header{*/
+  /*margin-top: 0.5em;*/
+}
+/*.navbar-nav{
+  margin-top: 1.2em;
+  float: right;
+}*/
+h1{
+  color: #fff;
+}
+h2{
+  color: #fff;
+}
+.large{
+  font-size: 1.5em;
+  color: #fff;
+}
+/*.nav li{
+  font-size: 1.2em;
+}
+
+.li_cadastro{
+  border-radius: 5px;
+  border:2px solid #32CD32;
+  margin-left: 10px;
+}
+.navbar .navbar-nav li a{
+  font-family: "verdana", sans-serif;
+  font-weight: bold;
+}
+.navbar .navbar-nav li a:hover{
+  color: #4cae4c;
+}
+.navbar .navbar-nav .li_login a:hover {
+  color: #fff;
+  border-radius: 5px;
+  background-color: #4cae4c;
+}
+.navbar .navbar-nav .li_login a{
+  color: #4cae4c;
+  border: 2px solid #4cae4c;
+  border-radius: 5px;
+}
+
+.navbar .navbar-nav .li_cadastro a{
+  color: #fff;
+}
+
+.navbar .navbar-nav .li_cadastro a:hover{
+  color: #fff;
+}*/
+.btn-sucesso{
+  font-size: 1.2em;
+  width: 80%;
+}/*
+footer{
+  background-color: #4f4848;
+  position:relative;
+  bottom: 0;
+  width: 100%;
+  height: 4.3em;
+}*/
+.container-login{
+  height: 80%;
+}
